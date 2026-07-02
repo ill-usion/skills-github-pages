@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Home Page
 ---
 Hello, World!
